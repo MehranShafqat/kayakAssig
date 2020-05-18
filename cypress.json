@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://www.kayak.com",
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 180000,
+    "requestTimeout": 180000,
+    "responseTimeout": 180000,
+    "pageLoadTimeout": 180000
+}

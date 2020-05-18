@@ -1,0 +1,66 @@
+{
+  "Scenario1": {
+    "OriginInput": "Hartsfield-Jackson Atlanta International Airport",
+    "OriginSelection": "Hartsfield-Jackson Atlanta International Airport (ATL)",
+    "DestinationInput": "Dubai International Airport (DXB)",
+    "DestinationSelection": "Dubai International Airport (DXBa)",
+    "Passengers": {
+      "Adults": 4,
+      "Seniors": 0,
+      "Youth": 0,
+      "Child": 0,
+      "SeatInfant": 0,
+      "LapInfant": 0
+    },
+    "Departure": "05/20/2020",
+    "Arrival": "05/30/2020"
+  },
+  "Scenario2": {
+    "OriginInput": "Tokyo Ha",
+    "OriginSelection": "Tokyo Haneda Airport (HND)",
+    "DestinationInput": "Paris Charl",
+    "DestinationSelection": "Paris Charles de Gaulle Airport (CDG)",
+    "Passengers": {
+      "Adults": 2,
+      "Seniors": 1,
+      "Youth": 1,
+      "Child": 1,
+      "SeatInfant": 0,
+      "LapInfant": 0
+    },
+    "Departure": "05/20/2020",
+    "Arrival": "05/30/2020"
+  },
+  "Scenario3": {
+    "OriginInput": "AMS",
+    "OriginSelection": "Amsterdam Airport Schiphol (AMS)",
+    "DestinationInput": "CAN",
+    "DestinationSelection": "Guangzhou China (CAN)",
+    "Passengers": {
+      "Adults": 2,
+      "Seniors": 2,
+      "Youth": 2,
+      "Child": 2,
+      "SeatInfant": 0,
+      "LapInfant": 0
+    },
+    "Departure": "05/20/2020",
+    "Arrival": "05/30/2020"
+  },
+  "Scenario4": {
+    "OriginInput": "Frankfurt Airport ",
+    "OriginSelection": "Frankfurt am Main, Germany (HHN)",
+    "DestinationInput": "Berlin",
+    "DestinationSelection": "Schonefeld (SXF)",
+    "Passengers": {
+      "Adults": 4,
+      "Seniors": 0,
+      "Youth": 0,
+      "Child": 1,
+      "SeatInfant": 1,
+      "LapInfant": 1
+    },
+    "Departure": "05/20/2020",
+    "Arrival": "05/30/2020"
+  }
+}
